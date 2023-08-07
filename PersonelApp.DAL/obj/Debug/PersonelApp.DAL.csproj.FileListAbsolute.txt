@@ -1,0 +1,16 @@
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\PersonelApp.DAL.dll.config
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\PersonelApp.DAL.dll
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\PersonelApp.DAL.pdb
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\PersonelApp.Domains.dll
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\PersonelApp.Domains.pdb
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.csproj.AssemblyReference.cache
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.csproj.CopyComplete
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.dll
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.pdb
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.Migrations.Init.resources
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.csproj.GenerateResource.cache

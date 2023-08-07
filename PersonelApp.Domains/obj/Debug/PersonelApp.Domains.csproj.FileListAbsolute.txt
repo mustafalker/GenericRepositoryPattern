@@ -1,0 +1,6 @@
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.Domains\bin\Debug\PersonelApp.Domains.dll
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.Domains\bin\Debug\PersonelApp.Domains.pdb
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.csproj.AssemblyReference.cache
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.dll
+C:\Users\mustafa.ulker\Desktop\Mustafa\Business\Vusial Stuido\PersonelApp\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.pdb
